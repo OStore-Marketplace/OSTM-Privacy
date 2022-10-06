@@ -1,6 +1,6 @@
 <h1>Privacy Policy for Auxiliary Technologies</h1>
 
-<p>At Ostore Marketplace, accessible from https://github.com/ro07/OSTM-Privacy.git, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Ostore Marketplace and how we use it.</p>
+<p>At Ostore Marketplace, accessible from https://github.com/OStore-Marketplace/OSTM-Privacy.git, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Ostore Marketplace and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
